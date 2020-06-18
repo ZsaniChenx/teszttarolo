@@ -1,2 +1,3 @@
 bob 
-Jim, vagy valami más
+Jim, vagy valami mas
+Meg egy adat
